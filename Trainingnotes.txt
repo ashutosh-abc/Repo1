@@ -1,0 +1,6 @@
+Ar a time only one parent can be there
+
+is... has
+
+super 
+sub..child
